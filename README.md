@@ -20,3 +20,7 @@ Place your current `resume.pdf` in this folder if you want the header Resume but
 
 
 Version 16 updates: restored the cleaner homepage hero by removing the secondary tagline, kept the full-name gradient accent, refreshed About Me typography, and included resume.pdf for the header Resume button.
+
+## v20
+- Added custom TK favicon matching the site logo, using the blue-to-teal gradient.
+- Browser tabs now display the TK mark instead of the default globe/document icon.
